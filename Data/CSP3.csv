@@ -1,0 +1,792 @@
+incident_acres_burned,incident_dateonly_extinguished,incident_containment,incident_name,incident_county,STNAME,FIPS
+12000,2003-02-23,100,Local,Riverside County,CA,06065
+3000,2003-05-03,100,Delima,Tulare County,CA,06107
+6804,2003-06-01,100,Bird,San Joaquin County,CA,06077
+1200,2003-07-22,100,Parkhill,San Luis Obispo County,CA,06079
+9815,2003-10-02,100,Kibbie Complex,Tuolumne County,CA,06109
+18705,2003-07-26,100,Coyote,San Diego County,CA,06073
+1898,2003-08-20,100,Locust,Riverside County,CA,06065
+24882,2003-10-15,100,Canoe,Humboldt County,CA,06023
+2397,2003-10-23,100,Pass,Riverside County,CA,06065
+66894,2003-11-05,100,Grand Prix,San Bernardino County,CA,06071
+63991,2003-11-14,100,Piru,Ventura County,CA,06111
+8650,2003-10-24,100,Verdale,Los Angeles County,CA,06037
+108204,2003-11-05,100,Simi,Ventura County,CA,06111
+273246,2003-12-05,100,Cedar,San Diego County,CA,06073
+91281,2003-11-14,100,Old,San Bernardino County,CA,06071
+46291,2003-10-27,100,Otay,San Diego County,CA,06073
+46000,2003-10-28,100,Mine,San Diego County,CA,06073
+10000,2003-10-29,100,Mountain,Riverside County,CA,06065
+56700,2003-11-06,100,Paradise,San Diego County,CA,06073
+1200,2003-10-30,100,Whitmore,Shasta County,CA,06089
+2464,2004-04-26,100,Pleasure Fire,Riverside County,CA,06065
+2040,2004-05-03,100,India,San Diego County,CA,06073
+8831,2004-05-07,100,Eagle,Riverside County,CA,06065
+16460,2004-05-07,100,Cerrito,Riverside County,CA,06065
+1127,2004-05-07,100,Cachuma,Santa Barbara County,CA,06083
+1845,2004-05-15,100,Cottonwood,Riverside County,CA,06065
+7440,2004-06-11,100,Gaviota,Santa Barbara County,CA,06083
+5060,2004-07-01,100,Meadow,Mariposa County,CA,06043
+3304,2004-09-13,100,Bluff,Shasta County,CA,06089
+3833,2004-07-16,100,Verbenia,Riverside County,CA,06065
+1307,2004-07-13,100,Gatos,Fresno County,CA,06019
+17418,2004-07-21,100,Pine,Los Angeles County,CA,06037
+8649,2004-07-15,100,Mataguary,San Diego County,CA,06073
+3667,2004-07-20,100,State Melton,Riverside County,CA,06065
+6002,2004-07-21,100,Foothill,Los Angeles County,CA,06037
+1500,2004-07-24,100,Pelican,Stanislaus County,CA,06099
+18026,2004-07-23,100,Crown Complex,Los Angeles County,CA,06037
+3422,2004-07-29,100,Straylor,Lassen County,CA,06035
+2400,2004-07-26,100,Irongate,Siskiyou County,CA,06093
+4030,2004-08-03,100,Sims,Trinity County,CA,06105
+1330,2004-08-09,100,East,Los Angeles County,CA,06037
+3443,2004-08-09,100,Copper,Calaveras County,CA,06009
+1246,2004-08-10,100,Kincaid,Santa Clara County,CA,06085
+1670,2004-08-11,100,Early,Tuolumne County,CA,06109
+2030,2004-08-15,100,Oregon,Butte County,CA,06007
+10848,2004-08-16,100,Bear,Shasta County,CA,06089
+3148,2004-08-16,100,Deep,Tulare County,CA,06107
+13005,2004-08-20,100,French,Shasta County,CA,06089
+12525,2004-09-08,100,Geysers,Lake County,CA,06033
+2476,2004-09-05,100,Pattison,Calaveras County,CA,06009
+1100,2004-09-04,100,Cement,Napa County,CA,06055
+1007,2004-09-09,100,Runaway,San Bernardino County,CA,06071
+1347,2004-09-15,100,Old Highway,Mariposa County,CA,06043
+16800,2004-10-21,100,Power,Amador County,CA,06005
+39138,2004-10-16,100,Rumsey,Yolo County,CA,06113
+7700,2004-10-17,100,Freds,El Dorado County,CA,06017
+1232,2005-06-03,100,Dos Amigos,Merced County,CA,06047
+5514,2005-06-05,100,Five,Fresno County,CA,06019
+1330,2005-06-04,100,Sperry,Stanislaus County,CA,06099
+1876,2005-06-19,100,Pioneer,San Bernardino County,CA,06071
+3082,2005-06-25,100,Paradise,San Bernardino County,CA,06071
+2000,2005-06-24,100,Soboba,Riverside County,CA,06065
+71000,2005-06-27,100,Hackberry,San Bernardino County,CA,06071
+1056,2005-07-02,100,Bailey,Madera County,CA,06039
+1200,2005-07-06,100,Tovey,Los Angeles County,CA,06037
+2600,2005-07-07,100,Millwood,Tulare County,CA,06107
+1150,2005-07-09,100,Nine,Tulare County,CA,06107
+6744,2005-07-20,100,Tesla,Alameda County,CA,06001
+1282,2005-07-19,100,China Lake,Kern County,CA,06029
+3500,2005-07-23,100,Kingston,San Bernardino County,CA,06071
+3200,2005-08-01,100,Cowpie,Merced County,CA,06047
+1500,2005-08-03,100,Halloran,San Bernardino County,CA,06071
+1700,2005-08-09,100,Deer,Lake County,CA,06033
+2700,2005-08-11,100,ThirySix,Tehama County,CA,06103
+24800,2005-08-22,100,Barrel,Modoc County,CA,06049
+2270,2005-08-24,100,Harding,Sierra County,CA,06091
+1830,2005-08-29,100,Manton,Tehama County,CA,06103
+5493,2005-08-30,100,Blaisdell,Riverside County,CA,06065
+2386,2005-09-05,100,Gorman,Kern County,CA,06029
+1600,2005-09-19,100,Pine,Tulare County,CA,06107
+24175,2005-10-07,100,Topanga,San Bernardino County,CA,06071
+1100,2005-09-28,100,San Timoteo,Riverside County,CA,06065
+1094,2005-10-04,100,Harvard,Los Angeles County,CA,06037
+6000,2005-10-05,100,River,Madera County,CA,06039
+4103,2005-10-08,100,Border 50,San Diego County,CA,06073
+6500,2005-10-07,100,Woodhouse,Riverside County,CA,06065
+3891,2005-11-19,100,School,Ventura County,CA,06111
+10584,2006-02-06,100,Sierra,Riverside County,CA,06065
+3019,2006-02-27,100,Hotlum,Siskiyou County,CA,06093
+1964,2006-05-14,100,Torch,Fresno County,CA,06019
+1418,2006-05-26,100,Stuhr,Stanislaus County,CA,06099
+1700,2006-05-27,100,Alpaugh,Tulare County,CA,06107
+14988,2006-06-26,100,Perkins,Santa Barbara County,CA,06083
+3500,2006-07-05,100,Boulder Complex,Plumas County,CA,06063
+4300,2006-06-30,100,Observation Complex,Lassen County,CA,06035
+3750,2006-06-29,100,Goodale,Inyo County,CA,06027
+1247,2006-06-27,100,Yolla Bolly,Tehama County,CA,06103
+2590,2006-07-03,100,Del Puerto,Stanislaus County,CA,06099
+2000,2006-07-05,100,Pedro,Tuolumne County,CA,06109
+2000,2006-07-10,100,Pushwalla Complex,Riverside County,CA,06065
+1780,2006-07-09,100,Happy Complex,Modoc County,CA,06049
+34000,2006-07-17,100,Canyon,Stanislaus County,CA,06099
+62000,2006-07-20,100,Sawtooth Complex,San Bernardino County,CA,06071
+24210,2006-07-09,100,Millard Fire Assist,Riverside County,CA,06065
+1500,2006-07-12,100,Beck,San Luis Obispo County,CA,06079
+6400,2006-07-11,100,Midway,Alameda County,CA,06001
+1234,2006-07-21,100,Creek,Lassen County,CA,06035
+1325,2006-07-21,100,Coytoe,Tulare County,CA,06107
+25007,2006-07-21,100,Olive,Merced County,CA,06047
+14506,2006-07-27,100,Ricco,Monterey County,CA,06053
+8400,2006-07-22,100,Three Rocks,Fresno County,CA,06019
+16681,2006-08-01,100,Horse,San Diego County,CA,06073
+3318,2006-09-24,100,Happy Camp,Siskiyou County,CA,06093
+30454,2006-10-31,100,Uncles Complex,Siskiyou County,CA,06093
+15710,2006-09-30,100,Oorleans Complex,Humboldt County,CA,06023
+1094,2006-07-25,100,Empire,Los Angeles County,CA,06037
+16296,2006-07-26,100,Hunter,Mendocino County,CA,06045
+1283,2006-07-28,100,Hoy,Siskiyou County,CA,06093
+100414,2006-07-27,100,Bar Complex,Trinity County,CA,06105
+4855,2006-08-05,100,Sage,Modoc County,CA,06049
+3126,2006-07-29,100,Junction,Trinity County,CA,06105
+6854,2006-08-02,100,Kingsley,Tehama County,CA,06103
+2346,2006-08-06,100,Cottonwood,Kern County,CA,06029
+4864,2006-08-16,100,Quail,Los Angeles County,CA,06037
+6452,2006-10-16,100,Pigeon,Trinity County,CA,06105
+169702,2006-10-02,100,Day,Ventura County,CA,06111
+8423,2006-09-18,100,Ralston,Placer County,CA,06061
+7434,2006-09-15,100,Sawmill,Mono County,CA,06051
+1580,2006-09-16,100,Orchard,Riverside County,CA,06065
+1670,2006-09-17,100,Ranch,Riverside County,CA,06065
+2370,2006-09-21,100,Pinnacles,San Bernardino County,CA,06071
+2114,2006-09-26,100,Bassetts,Sierra County,CA,06091
+1014,2006-09-30,100,Noble,Mendocino County,CA,06045
+1600,2006-10-25,100,Phelps,Fresno County,CA,06019
+40200,2006-10-31,100,Esperanza,Riverside County,CA,06065
+13600,2006-12-05,100,Shekell,Ventura County,CA,06111
+4025,2006-12-09,100,Westside,Kern County,CA,06029
+2036,2007-03-13,100,241,Orange County,CA,06059
+1044,2007-03-12,100,Sierra,Riverside County,CA,06065
+4100,2007-04-01,100,Las Flores,San Bernardino County,CA,06071
+1988,2007-04-15,100,Golden,Inyo County,CA,06027
+1350,2007-05-05,100,James,Kern County,CA,06029
+4750,2007-05-15,100,Island,Los Angeles County,CA,06037
+2050,2007-05-22,100,Gorman,Los Angeles County,CA,06037
+2140,2007-06-04,100,Shannon,Tulare County,CA,06107
+4196,2007-06-28,100,Goldledge,Tulare County,CA,06107
+1500,2007-06-06,100,Inkopah,Imperial County,CA,06025
+3100,2007-07-02,100,Angora,El Dorado County,CA,06017
+12454,2007-07-03,100,White,Kern County,CA,06029
+2300,2007-06-28,100,Mission,Monterey County,CA,06053
+240207,2007-09-04,100,Zaca,Santa Barbara County,CA,06083
+22902,2007-07-13,100,Antelope Complex,Plumas County,CA,06063
+35176,2007-07-16,100,Inyo Complex,Inyo County,CA,06027
+1005,2007-07-07,100,Rock 2,Tulare County,CA,06107
+8121,2007-07-19,100,Fletcher,Modoc County,CA,06049
+17684,2007-09-15,100,Elk Complex,Siskiyou County,CA,06093
+2906,2007-07-21,100,China-Back Complex,Siskiyou County,CA,06093
+1057,2007-08-07,100,Bangor,Butte County,CA,06007
+5644,2007-08-19,100,Tar,Kings County,CA,06031
+1022,2007-09-08,100,Grouse,Tulare County,CA,06107
+1440,2007-09-03,100,Wallow,Trinity County,CA,06105
+2200,2007-09-08,100,North,Los Angeles County,CA,06037
+47760,2007-09-11,100,Lick,Santa Clara County,CA,06085
+64997,2007-09-15,100,Moonlight,Plumas County,CA,06063
+2170,2007-09-16,100,Pine,San Diego County,CA,06073
+14039,2007-10-01,100,Butler 2,San Bernardino County,CA,06071
+58401,2007-10-30,100,Ranch,Los Angeles County,CA,06037
+4521,2007-10-27,100,Canyon,Los Angeles County,CA,06037
+710,2007-10-30,100,Sedgewick Fire,Santa Barbara County,CA,06083
+90440,2007-11-05,100,Harris,San Diego County,CA,06073
+197990,2007-11-06,100,Witch,San Diego County,CA,06073
+400,2007-10-26,100,McCoy Fire[nb 1],San Diego County,CA,06073
+38356,2007-11-01,100,Buckweed,Los Angeles County,CA,06037
+28400,2007-11-09,100,Santiago,Orange County,CA,06059
+650,2007-10-24,100,Little Mountain Fire,San Bernardino County,CA,06071
+2824,2007-10-27,100,Magic,Los Angeles County,CA,06037
+12759,2007-10-31,100,Slide,San Bernardino County,CA,06071
+9472,2007-11-01,100,Rice,San Diego County,CA,06073
+1247,2007-10-29,100,Grass Valley,San Bernardino County,CA,06071
+58401,2007-10-30,100,Meadowridge Fire,Los Angeles County,CA,06037
+49410,2007-11-13,100,Poomacha[nb 1],San Diego County,CA,06073
+21004,2007-10-29,100,Ammo (Horno) Fire,San Diego County,CA,06073
+1108,2007-12-15,100,Jack,Mariposa County,CA,06043
+4901,2007-11-27,100,Corral,Los Angeles County,CA,06037
+1130,2008-04-19,100,Wawona Nw,Mariposa County,CA,06043
+1225,2008-05-23,100,Honey Bee,Tulare County,CA,06107
+1331,2008-05-09,100,Colyear,Tehama County,CA,06103
+1100,2008-05-21,100,Avocado,Fresno County,CA,06019
+4270,2008-05-27,100,Summit,Santa Cruz County,CA,06087
+15300,2008-07-20,100,Clover,Tulare County,CA,06107
+81378,2008-07-10,100,Indians,Monterey County,CA,06053
+6400,2008-06-12,100,Jackson,Sacramento County,CA,06067
+1600,2008-06-13,100,Ophir,Butte County,CA,06007
+3300,2008-06-11,100,41,Madera County,CA,06039
+1346,2008-06-11,100,Lagrange,Tuolumne County,CA,06109
+23344,2008-06-21,100,Humboldt,Butte County,CA,06007
+7783,2008-06-22,100,Whiskey,Tehama County,CA,06103
+1000,2008-06-30,100,Albion River Lightning,Mendocino County,CA,06045
+98715,2008-08-15,100,Lime Complex,Trinity County,CA,06105
+3705,2008-07-21,100,Mad Complex,Trinity County,CA,06105
+15146,2008-07-28,100,Hells Half Complex,Trinity County,CA,06105
+29327,2008-09-15,100,South Complex,Humboldt County,CA,06023
+3870,2008-06-24,100,Brown Complex,San Benito County,CA,06069
+3206,2008-06-21,100,West Branch,Butte County,CA,06007
+10000,2008-06-21,100,Frey,Butte County,CA,06007
+1248,2008-06-21,100,Flea Valley,Butte County,CA,06007
+1248,2008-06-21,100,Flea Valley 2,Butte County,CA,06007
+1076,2008-08-01,100,Paradise,Humboldt County,CA,06023
+82186,2008-09-30,100,Blue 2 Complex,Siskiyou County,CA,06093
+3000,2008-06-22,100,Popcorn,Lassen County,CA,06035
+19718,2008-07-20,100,Cub Complex,Lassen County,CA,06035
+7842,2008-07-02,100,Peterson Complex,Lassen County,CA,06035
+4200,2008-06-26,100,Wild,Napa County,CA,06055
+162818,2008-07-27,100,Basin Complex,Monterey County,CA,06053
+3000,2008-06-21,100,Wagers Lightning,Mendocino County,CA,06045
+3000,2008-07-13,100,Jack Smith Lightning,Mendocino County,CA,06045
+4466,2008-07-17,100,Mallo B,Mendocino County,CA,06045
+3000,2008-07-13,100,Squaw 1 Lightning 2,Mendocino County,CA,06045
+7515,2008-08-01,100,Red Mountain 1,Mendocino County,CA,06045
+3000,2008-07-13,100,Gate Lightning,Mendocino County,CA,06045
+8632,2008-07-26,100,Soda Complex,Lake County,CA,06033
+47680,2008-09-30,100,Canyon Complex,Plumas County,CA,06063
+105805,2008-09-09,100,Iron Alps Complex,Trinity County,CA,06105
+4000,2008-07-24,100,Sta 57 Ono Cdf Igo 2,Shasta County,CA,06089
+2054,2008-07-15,100,Whitmore Old Crow C2,Shasta County,CA,06089
+1200,2008-07-06,100,EO2A,Shasta County,CA,06089
+1148,2008-07-07,100,Stein,Shasta County,CA,06089
+6030,2008-08-09,100,Moon,Shasta County,CA,06089
+12980,2008-07-04,100,Platina 4,Trinity County,CA,06105
+1311,2008-07-23,100,Lewiston 8,Trinity County,CA,06105
+27936,2008-08-23,100,Lakehead,Shasta County,CA,06089
+2200,2008-06-26,100,Oliver,Mariposa County,CA,06043
+2889,2008-07-03,100,North Mountain,Tuolumne County,CA,06109
+20541,2008-07-30,100,American River Complex,Placer County,CA,06061
+4254,2008-07-15,100,Yuba River Complex,Sierra County,CA,06091
+6420,2008-07-19,100,Whiskeytown Complex,Shasta County,CA,06089
+192038,2008-09-30,100,Klamath Theater Complex,Siskiyou County,CA,06093
+3000,2008-07-08,100,Popcorn,Lassen County,CA,06035
+2100,2008-06-29,100,Mill Complex,Tehama County,CA,06103
+15000,2008-06-29,100,Walker,Lake County,CA,06033
+3000,2008-07-10,100,Orr Springs Rd Ukv 2,Mendocino County,CA,06045
+1000,2008-07-13,100,5-8 Cliff Lightning,Mendocino County,CA,06045
+1912,2008-07-04,100,Venture,Shasta County,CA,06089
+12500,2008-07-07,100,Corral,Lassen County,CA,06035
+2789,2008-07-06,100,Oliver,Mariposa County,CA,06043
+13580,2008-07-01,100,Mill Creek,Tehama County,CA,06103
+37026,2008-07-25,100,Piute,Kern County,CA,06029
+5581,2008-06-30,100,Hardy,Mendocino County,CA,06045
+9443,2008-07-28,100,Gap,Santa Barbara County,CA,06083
+2800,2008-07-04,100,Butch Lightning,Mendocino County,CA,06045
+1200,2008-07-10,100,Lost Pipe Lightning,Mendocino County,CA,06045
+2000,2008-07-15,100,Jack Smith Lightning,Mendocino County,CA,06045
+3000,2008-07-08,100,Albion Lightning,Mendocino County,CA,06045
+1000,2008-07-08,100,Horse Lightning,Mendocino County,CA,06045
+3000,2008-07-13,100,Orr Series Lightning,Mendocino County,CA,06045
+3000,2008-07-15,100,Montgomery Flat Lightning,Mendocino County,CA,06045
+1000,2008-07-07,100,Alder Creek Beach,Mendocino County,CA,06045
+11596,2008-11-11,100,Tehipite,Fresno County,CA,06019
+72344,2008-09-30,100,Panther,Siskiyou County,CA,06093
+34091,2008-09-15,100,Telegraph,Mariposa County,CA,06043
+6112,2008-08-10,100,Rich,Plumas County,CA,06063
+2001,2008-08-11,100,Craig,Butte County,CA,06007
+1651,2008-08-13,100,Rim,Butte County,CA,06007
+2000,2008-08-13,100,Empire,Butte County,CA,06007
+47647,2008-08-13,100,Camp Beldon and Pit,Butte County,CA,06007
+1324,2008-08-13,100,Smokey,Butte County,CA,06007
+6900,2008-08-22,100,Jack,Siskiyou County,CA,06093
+1000,2008-09-03,100,Gladding,Placer County,CA,06061
+2847,2008-09-11,100,Gulch,Shasta County,CA,06089
+3668,2008-09-30,100,Hidden,Tulare County,CA,06107
+16269,2008-10-29,100,Chalk,Monterey County,CA,06053
+1400,2008-10-09,100,November,San Diego County,CA,06073
+4824,2008-10-16,100,Marek,Los Angeles County,CA,06037
+14703,2008-10-18,100,Sesnon,Los Angeles County,CA,06037
+4026,2008-10-17,100,Juliett,San Diego County,CA,06073
+1310,2008-10-23,100,Lackerman,Butte County,CA,06007
+1940,2008-11-17,100,Tea,Santa Barbara County,CA,06083
+11200,2008-11-20,100,Sayre,Los Angeles County,CA,06037
+30305,2008-11-22,100,Freeway Complex,Riverside County,CA,06065
+8733,2009-05-20,100,Jesusita,Santa Barbara County,CA,06083
+3047,2009-07-13,100,Grouse,Mariposa County,CA,06043
+1661,2009-07-11,100,Harden,Tuolumne County,CA,06109
+2163,2009-06-19,100,Explosive,San Joaquin County,CA,06077
+3988,2009-08-21,100,Lion Complex,Tulare County,CA,06107
+6324,2009-07-24,100,Backbone,Trinity County,CA,06105
+2200,2009-07-14,100,Yankee,San Diego County,CA,06073
+3268,2009-07-27,100,Fork,Inyo County,CA,06027
+3225,2009-07-27,100,Tennant,Siskiyou County,CA,06093
+6130,2009-08-11,100,Knight,Tuolumne County,CA,06109
+1100,2009-08-31,100,Wildcat,Tuolumne County,CA,06109
+11269,2009-08-12,100,Hat Creek Complex,Shasta County,CA,06089
+1500,2009-08-07,100,W-4,Lassen County,CA,06035
+1600,2009-08-03,100,Dodge Complex,Lassen County,CA,06035
+1000,2009-08-12,100,Brown,Shasta County,CA,06089
+1664,2009-08-21,100,Fairfield,Shasta County,CA,06089
+6895,2009-08-16,100,Chalk (Shu Complex),Shasta County,CA,06089
+3918,2009-08-17,100,Goose (Shu Complex),Shasta County,CA,06089
+6319,2009-08-14,100,Cassel (Shu Complex),Shasta County,CA,06089
+89489,2009-08-23,100,La Brea,Santa Barbara County,CA,06083
+7817,2009-08-23,100,Lockheed,Santa Cruz County,CA,06087
+1300,2009-08-15,100,Coffin,Trinity County,CA,06105
+12200,2009-08-16,100,Corral,San Joaquin County,CA,06077
+3891,2009-08-24,100,Yuba,Yuba County,CA,06115
+1364,2009-09-04,100,Red Rock,Siskiyou County,CA,06093
+2168,2009-09-03,100,Morris,Los Angeles County,CA,06037
+3383,2009-08-29,100,Bryson,Monterey County,CA,06053
+160577,2009-10-16,100,Station,Los Angeles County,CA,06037
+7425,2009-09-10,100,Big Meadows,Mariposa County,CA,06043
+6437,2009-09-01,100,Gloria,Monterey County,CA,06053
+2409,2009-08-31,100,Cottonwood,Riverside County,CA,06065
+1600,2009-08-30,100,Pacheco,Santa Clara County,CA,06085
+1159,2009-09-08,100,Oak Glen III,San Bernardino County,CA,06071
+1500,2009-09-12,100,Oasis,Lake County,CA,06033
+17500,2009-10-01,100,Guiberson,Ventura County,CA,06111
+1235,2009-10-01,100,Six,Yolo County,CA,06113
+7128,2009-10-10,100,Sheep,San Bernardino County,CA,06071
+2750,2009-10-17,100,Mill Creek #4,Humboldt County,CA,06023
+2044,2010-05-17,100,Cotton,San Luis Obispo County,CA,06079
+1000,2010-05-22,100,McKinley,Riverside County,CA,06065
+1600,2010-06-12,100,Robinson,Merced County,CA,06047
+3225,2010-07-13,100,Aliso,San Diego County,CA,06073
+1254,2010-07-22,100,Sand 2,Kern County,CA,06029
+1822,2010-07-24,100,Indian,Kern County,CA,06029
+1205,2010-07-29,100,Mono,Mono County,CA,06051
+16442,2010-08-10,100,Bull,Kern County,CA,06029
+9408,2010-08-10,100,McDonald,Lassen County,CA,06035
+1650,2010-08-06,100,West,Kern County,CA,06029
+13918,2010-08-03,100,Crown,Los Angeles County,CA,06037
+1040,2010-08-10,100,Bar,Plumas County,CA,06063
+1200,2010-08-22,100,Pozo,San Luis Obispo County,CA,06079
+1312,2010-08-28,100,Post,Kern County,CA,06029
+1307,2010-08-31,100,Bullard,Yuba County,CA,06115
+1500,2010-09-13,100,Bullards,Nevada County,CA,06057
+9820,2010-09-19,100,Canyon,Kern County,CA,06029
+1122,2011-05-31,100,Cove,Kern County,CA,06029
+2000,2011-06-13,100,Cougar,Modoc County,CA,06049
+5200,2011-06-21,100,Antelope,Kern County,CA,06029
+3154,2011-06-22,100,Quinn,Kern County,CA,06029
+1213,2011-07-02,100,Stage,Tulare County,CA,06107
+20500,2011-10-10,100,Lion,Tulare County,CA,06107
+2945,2011-07-18,100,Scorpion Complex,Modoc County,CA,06049
+14100,2011-07-29,100,Eagle,San Diego County,CA,06073
+2076,2011-08-21,100,Annie,Modoc County,CA,06049
+5231,2011-09-04,100,Motor,Mariposa County,CA,06043
+1723,2011-08-31,100,Wells,San Bernardino County,CA,06071
+1135,2011-09-02,100,Hill,San Bernardino County,CA,06071
+1528,2011-09-04,100,Soda,San Luis Obispo County,CA,06079
+14585,2011-09-11,100,Canyon,Kern County,CA,06029
+1122,2011-09-11,100,Milton,San Joaquin County,CA,06077
+2577,2011-09-14,100,Keene Complex,Kern County,CA,06029
+29338,2011-09-14,100,Comanche Complex,Kern County,CA,06029
+25213,2011-09-17,100,Breckenridge Complex,Kern County,CA,06029
+5300,2011-09-16,100,John,Inyo County,CA,06027
+1011,2011-10-17,100,Tamarack,Mariposa County,CA,06043
+2005,2011-09-23,100,65 Fire,Kern County,CA,06029
+1460,2011-09-28,100,Ruth,Trinity County,CA,06105
+1140,2011-09-27,100,Buckeye,Mono County,CA,06051
+2135,2011-10-07,100,Great,San Diego County,CA,06073
+5320,2012-05-29,100,Banner,San Diego County,CA,06073
+1707,2012-06-15,100,George,Tulare County,CA,06107
+1700,2012-06-14,100,Gaines,Mariposa County,CA,06043
+2171,2012-06-18,100,Highland,Riverside County,CA,06065
+1705,2012-11-26,100,Cascade,Mariposa County,CA,06043
+1083,2012-07-07,100,Dale,Shasta County,CA,06089
+1103,2012-07-09,100,Fish,Inyo County,CA,06027
+29502,2012-07-18,100,Mill,Colusa County,CA,06011
+1870,2012-07-12,100,Grapevine,Colusa County,CA,06011
+1870,2012-07-12,100,Rail,Colusa County,CA,06011
+2529,2012-07-20,100,Turkey,Monterey County,CA,06053
+2650,2012-07-21,100,Robbers,Placer County,CA,06061
+1688,2012-07-17,100,Flat,Trinity County,CA,06105
+1428,2012-07-19,100,Sand,Kern County,CA,06029
+1169,2012-07-21,100,Spanish,Lassen County,CA,06035
+28079,2012-08-21,100,Reading,Shasta County,CA,06089
+75217,2012-08-31,100,Chips,Plumas County,CA,06063
+1000,2012-08-04,100,Rushmore,Riverside County,CA,06065
+1783,2012-08-11,100,Piute Comlex,Kern County,CA,06029
+1668,2012-08-09,100,Lake Complex,Modoc County,CA,06049
+23653,2012-09-10,100,Fort Complex,Siskiyou County,CA,06093
+38394,2012-08-28,100,Barry Point,Modoc County,CA,06049
+12574,2012-08-15,100,Indian,Mono County,CA,06051
+2006,2012-08-12,100,Chihuahua,San Diego County,CA,06073
+1218,2012-08-22,100,Jawbone Complex,Kern County,CA,06029
+1137,2012-08-31,100,Ramsey,Calaveras County,CA,06009
+2934,2012-08-18,100,Wye,Lake County,CA,06033
+5000,2012-08-14,100,Walker,Lake County,CA,06033
+271911,2012-08-31,100,Rush,Lassen County,CA,06035
+22829,2012-08-20,100,Vallecito Lightning Complex,San Diego County,CA,06073
+1641,2012-08-23,100,Mill,Tehama County,CA,06103
+2681,2012-08-18,100,Buck,Riverside County,CA,06065
+3661,2012-08-21,100,Nelson,Modoc County,CA,06049
+27676,2012-09-02,100,Ponderosa,Tehama County,CA,06103
+1000,2012-08-22,100,Bagley Complex,Shasta County,CA,06089
+41983,2012-09-16,100,North Pass,Mendocino County,CA,06045
+46011,2012-09-15,100,Bagley,Shasta County,CA,06089
+4192,2012-09-11,100,Williams,Los Angeles County,CA,06037
+19000,2012-09-11,100,Sixteen Complex,Colusa County,CA,06011
+4407,2012-09-13,100,Stafford,Trinity County,CA,06105
+9838,2012-09-14,100,Likely,Lassen County,CA,06035
+4517,2012-09-14,100,Scotts,Lake County,CA,06033
+2555,2012-09-27,100,Shockey,San Diego County,CA,06073
+6896,2013-05-09,100,Panther,Tehama County,CA,06103
+3161,2013-05-04,100,Summit,Riverside County,CA,06065
+24251,2013-05-09,100,Springs,Ventura County,CA,06111
+4346,2013-05-22,100,Grand,Kern County,CA,06029
+2650,2013-05-29,100,Felipe,San Diego County,CA,06073
+2500,2013-05-31,100,General,San Diego County,CA,06073
+1984,2013-06-05,100,White,Santa Barbara County,CA,06083
+30274,2013-06-10,100,Powerhouse,Los Angeles County,CA,06037
+3870,2013-10-15,100,Hathaway,Riverside County,CA,06065
+1708,2013-06-26,100,Carstens,Mariposa County,CA,06043
+7055,2013-07-15,100,Chariot,San Diego County,CA,06073
+27531,2013-07-31,100,Mountain,Riverside County,CA,06065
+22992,2013-09-08,100,Aspen,Fresno County,CA,06019
+37246,2013-10-01,100,Forks Complex,Siskiyou County,CA,06093
+1383,2013-08-09,100,Falls,Riverside County,CA,06065
+1070,2013-08-13,100,Power,Tuolumne County,CA,06109
+20292,2013-08-12,100,Silver,Riverside County,CA,06065
+12503,2013-10-02,100,Corral Complex,Humboldt County,CA,06023
+22407,2013-08-29,100,American,Placer County,CA,06061
+2264,2013-08-22,100,Swedes,Butte County,CA,06007
+257314,2013-10-27,100,Rim,Tuolumne County,CA,06109
+4500,2013-08-25,100,Mission,Monterey County,CA,06053
+11429,2013-08-29,100,Deer,Tehama County,CA,06103
+2060,2013-09-05,100,Fish,Tulare County,CA,06107
+3100,2013-09-14,100,Morgan,Contra Costa County,CA,06013
+8073,2013-09-15,100,Clover,Shasta County,CA,06089
+2236,2013-10-09,100,Deluz,San Diego County,CA,06073
+3505,2013-11-28,100,Mccabe,Sonoma County,CA,06097
+1612,2014-02-15,100,Soda,Tulare County,CA,06107
+1952,2014-01-21,100,Colby,Los Angeles County,CA,06037
+2200,2014-05-09,100,Etiwanda,San Bernardino County,CA,06071
+1548,2014-05-17,100,Bernardo,San Diego County,CA,06073
+5367,2014-05-19,100,Tomahawk,San Diego County,CA,06073
+600,2014-05-17,100,Poinsettia,San Diego County,CA,06073
+1995,2014-05-22,100,Cocos,San Diego County,CA,06073
+14416,2014-05-21,100,Pulgas,San Diego County,CA,06073
+1457,2014-05-20,100,San Mateo,San Diego County,CA,06073
+2545,2014-06-22,100,Shirley,Kern County,CA,06029
+4840,2014-06-22,100,Stony,Monterey County,CA,06053
+4300,2014-07-09,100,Butts,Napa County,CA,06055
+2566,2014-07-07,100,Modoc July Complex,Modoc County,CA,06049
+6488,2014-07-12,100,Monticello,Yolo County,CA,06113
+12661,2014-07-28,100,Bully,Shasta County,CA,06089
+1680,2014-07-19,100,Nicolls,Kern County,CA,06029
+1077,2014-08-20,100,Dark Hole,Mariposa County,CA,06043
+4240,2014-09-02,100,Sand,El Dorado County,CA,06017
+1000,2014-07-29,100,Kelley,Merced County,CA,06047
+4689,2014-08-04,100,El Portal,Mariposa County,CA,06043
+13838,2014-08-18,100,French,Madera County,CA,06039
+13153,2014-08-13,100,Day,Modoc County,CA,06049
+12535,2014-08-09,100,Lodge Complex,Mendocino County,CA,06045
+39736,2014-08-16,100,Bald,Shasta County,CA,06089
+6178,2014-08-16,100,Coffee Complex,Trinity County,CA,06105
+32496,2014-08-30,100,KNF Beaver,Siskiyou County,CA,06093
+5503,2014-08-11,100,Little Deer,Siskiyou County,CA,06093
+32416,2014-08-24,100,Eiler,Shasta County,CA,06089
+50042,2014-09-25,100,July Complex,Siskiyou County,CA,06093
+134056,2014-10-31,100,Happy Camp Complex,Siskiyou County,CA,06093
+4772,2014-09-29,100,Meadow,Mariposa County,CA,06043
+4045,2014-08-28,100,Way,Kern County,CA,06029
+1375,2014-09-16,100,Gulch,Shasta County,CA,06089
+97717,2014-10-09,100,King,El Dorado County,CA,06017
+320,2014-09-21,100,Courtney,Madera County,CA,06039
+516,2014-10-11,100,Boles,Siskiyou County,CA,06093
+311,2014-10-12,100,Dog Rock,Mariposa County,CA,06043
+7000,2015-02-12,100,Round,Inyo County,CA,06027
+1049,2015-04-24,100,Highway,Riverside County,CA,06065
+31359,2015-08-01,100,Lake,San Bernardino County,CA,06071
+1791,2015-06-24,100,Park Hill,San Luis Obispo County,CA,06079
+4250,2015-07-21,100,North,San Bernardino County,CA,06071
+8051,2015-08-06,100,Wragg,Napa County,CA,06055
+69438,2015-08-14,100,Rocky,Lake County,CA,06033
+36503,2015-11-03,100,Fork Complex,Shasta County,CA,06089
+77081,2015-10-29,100,River Complex,Trinity County,CA,06105
+4863,2015-08-20,100,Frog,Lassen County,CA,06035
+4883,2015-08-19,100,Humboldt Lightning,Humboldt County,CA,06023
+73137,2015-09-13,100,Mad River Complex,Humboldt County,CA,06023
+151623,2015-11-05,100,Rough,Fresno County,CA,06019
+10570,2015-08-17,100,Dodge,Lassen County,CA,06035
+30361,2015-10-15,100,Gasquet,Del Norte County,CA,06015
+25118,2015-08-25,100,Jerusalem,Lake and Napa County,CA,
+1723,2015-11-20,100,Cabin,Glendora County,CA,
+2446,2015-08-28,100,Cuesta,San Luis Obispo County,CA,06079
+2700,2015-08-22,100,Tesla,Alameda County,CA,06001
+70868,2015-10-01,100,Butte,Amador County,CA,06005
+76067,2015-10-15,100,Valley,Lake County,CA,06033
+1086,2015-09-27,100,Tassajara,Monterey County,CA,06053
+1388,2015-12-29,100,Solimar,Ventura County,CA,06111
+3712,2016-05-20,100,Roberts,San Luis Obispo County,CA,06079
+3876,2016-05-25,100,Metz,Monterey County,CA,06053
+2520,2016-06-17,100,Coleman,Monterey County,CA,06053
+2860,2016-06-30,100,Pony,Siskiyou County,CA,06093
+7474,2016-07-12,100,Sherpa,Santa Barbara County,CA,06083
+7609,2016-06-30,100,Border,San Diego County,CA,06073
+2304,2016-07-17,100,Pine,Ventura County,CA,06111
+5399,2016-07-23,100,San Gabriel Complex,Los Angeles County,CA,06037
+48019,2016-07-12,100,Erskine,Kern County,CA,06029
+5646,2016-07-18,100,Trailhead,Placer County,CA,06061
+1785,2016-07-11,100,Deer,Kern County,CA,06029
+2944,2016-07-05,100,Curry,Fresno County,CA,06019
+1109,2016-07-16,100,Sage,Los Angeles County,CA,06037
+1245,2016-07-30,100,Roblar,San Diego County,CA,06073
+41432,2016-08-03,100,Sand,Los Angeles County,CA,06037
+132100,2016-10-12,100,Soberanes,Monterey County,CA,06053
+2241,2016-08-09,100,Goose,Fresno County,CA,06019
+5731,2016-08-12,100,Cold,Yolo County,CA,06113
+8110,2016-08-16,100,Pilot,San Bernardino County,CA,06071
+7050,2016-08-18,100,Mineral,Fresno County,CA,06019
+46344,2016-09-06,100,Chimney,San Luis Obispo County,CA,06079
+3929,2016-08-26,100,Clayton,Lake County,CA,06033
+36274,2016-08-23,100,Blue Cut,San Bernardino County,CA,06071
+29322,2016-09-30,100,Cedar,Kern County,CA,06029
+32606,2016-09-16,100,Rey,Santa Barbara County,CA,06083
+33867,2016-09-17,100,Gap,Siskiyou County,CA,06093
+1470,2016-09-02,100,Bogart,Riverside County,CA,06065
+2575,2016-09-22,100,Willard,Lassen County,CA,06035
+5443,2016-10-15,100,Owens River,Mono County,CA,06051
+12518,2016-09-24,100,Canyon,Santa Barbara County,CA,06083
+1547,2016-09-29,100,Sawmill,Sonoma County,CA,06097
+1080,2016-10-04,100,Marshes,Tuolumne County,CA,06109
+4474,2016-10-12,100,Loma,Santa Clara County,CA,06085
+5738,2017-04-21,100,Jayne,Fresno County,CA,06019
+1350,2017-05-02,100,Opera,Riverside County,CA,06065
+10345,2017-05-21,100,Elm,Fresno County,CA,06019
+2056,2017-05-23,100,Gate,San Diego County,CA,06073
+1431,2017-06-13,100,Oakwood,Madera County,CA,06039
+1522,2017-06-28,100,Highway,Kern County,CA,06029
+1503,2017-06-29,100,Holcomb,San Bernardino County,CA,06071
+16031,2017-08-10,100,Schaeffer,Tulare County,CA,06107
+65888,2017-12-08,100,Salmon August Complex,Siskiyou County,CA,06093
+6309,2017-06-30,100,Manzanita,Riverside County,CA,06065
+1598,2017-06-30,100,Hill,San Luis Obispo County,CA,06079
+2269,2017-07-12,100,Winters,Yolo County,CA,06113
+28687,2017-07-19,100,Alamo,San Luis Obispo County,CA,06079
+6033,2017-07-17,100,Wall,Butte County,CA,06007
+18430,2017-10-05,100,Whittier,Santa Barbara County,CA,06083
+1816,2017-07-11,100,Parkfield,Monterey County,CA,06053
+48889,2017-07-21,100,Garza,Fresno County,CA,06019
+83733,2017-07-21,100,Long Valley,Lassen County,CA,06035
+81826,2017-08-24,100,Detwiler,Mariposa County,CA,06043
+83120,2017-08-16,100,Modoc July Complex,Modoc County,CA,06049
+27276,2017-09-26,100,Orleans Complex,Siskiyou County,CA,06093
+6370,2017-11-27,100,Empire,Mariposa County,CA,06043
+7697,2017-08-29,100,Parker 2,Modoc County,CA,06049
+2500,2017-08-28,100,Young,Siskiyou County,CA,06093
+7000,2017-11-27,100,South Fork,Mariposa County,CA,06043
+1044,2017-08-16,100,Blaine,Riverside County,CA,06065
+78698,2017-11-29,100,Eclipse Complex,Siskiyou County,CA,06093
+36556,2017-11-29,100,Pier,Tulare County,CA,06107
+12407,2017-10-24,100,Railroad,Madera County,CA,06039
+4016,2017-09-09,100,Ponderosa,Butte County,CA,06007
+6042,2017-09-01,100,Mud,Lassen County,CA,06035
+8925,2017-09-12,100,Slinkard,Mono County,CA,06051
+21846,2017-11-15,100,Helena,Trinity County,CA,06105
+7194,2017-09-09,100,La Tuna,Los Angeles County,CA,06037
+3874,2017-09-06,100,Palmer,Riverside County,CA,06065
+1035,2017-09-13,100,Mission,Madera County,CA,06039
+13417,2017-11-20,100,Buck,Trinity County,CA,06105
+18900,2017-12-02,100,Lion,Tulare County,CA,06107
+2662,2017-10-04,100,Canyon,Riverside County,CA,06065
+8417,2017-10-16,100,Cherokee,Butte County,CA,06007
+51624,2017-10-31,100,Atlas,Napa/Solano County,CA,
+36807,2017-10-31,100,Tubbs,Napa/Sonoma County,CA,
+56556,2017-10-30,100,Nuns,Sonoma County,CA,06097
+36523,2017-10-28,100,Redwood Valley Complex,Mendocino County,CA,06045
+6151,2017-10-18,100,La Porte,Butte County,CA,06007
+9989,2017-10-18,100,Cascade,Yuba County,CA,06115
+2207,2017-10-26,100,Sulphur,Lake County,CA,06033
+9217,2017-10-18,100,Canyon 2,Orange County,CA,06059
+1660,2017-10-13,100,37,Sonoma County,CA,06097
+17357,2017-10-31,100,Pocket,Sonoma County,CA,06097
+821,2017-10-18,100,Lobo,Nevada County,CA,06057
+391,2017-10-27,100,Bear,Santa Cruz County,CA,06087
+1088,2017-11-14,100,Buffalo Fire,San Diego County,CA,06073
+866,2017-10-29,100,Wildomar,Riverside County,CA,06065
+281893,2018-01-12,100,Thomas,Ventura/Santa Barbara County,CA,
+15619,2018-01-09,100,Creek,Los Angeles County,CA,06037
+6049,2017-12-12,100,Rye,Los Angeles County,CA,06037
+260,2017-12-07,100,Little Mountain,San Bernardino County,CA,06071
+422,2017-12-15,100,Skirball,Los Angeles County,CA,06037
+4100,2017-12-16,100,Lilac,San Diego County,CA,06073
+300,2017-12-09,100,Liberty,Riverside County,CA,06065
+2070,2018-04-03,100,Pleasant,Inyo County,CA,06027
+1265,2018-05-21,100,Moffat,Inyo County,CA,06027
+1756,2018-05-17,100,Nees,Merced County,CA,06047
+1261,2018-05-21,100,Patterson,Riverside County,CA,06065
+64,2018-06-07,100,Panoche,San Benito County,CA,06069
+1352,2018-06-13,100,Stone,Los Angeles County,CA,06037
+1314,2018-06-14,100,Airline,San Benito County,CA,06069
+2956,2018-06-14,100,Apple,Tehama County,CA,06103
+2290,2018-06-21,100,Chrome,Glenn County,CA,06021
+13347,2018-10-01,100,Lions,Madera County,CA,06039
+4564,2018-06-21,100,Planada,Merced County,CA,06047
+1500,2018-07-01,100,Yankee,San Luis Obispo County,CA,06079
+3716,2018-07-04,100,Lane,Tehama County,CA,06103
+15185,2018-07-08,100,Pawnee,Lake County,CA,06033
+1678,2018-07-05,100,Creek,Madera County,CA,06039
+12300,2018-07-02,100,Waverly,San Joaquin County,CA,06077
+90288,2018-07-14,100,County,Lake County,CA,06033
+90288,2018-07-14,100,County,Napa County,CA,06055
+90288,2018-07-14,100,County,Yolo County,CA,06113
+38008,2018-07-16,100,Klamathon,Siskiyou County,CA,06093
+1350,2018-10-22,100,Valley,San Bernardino County,CA,06071
+113,2018-07-11,100,Holiday,Santa Barbara County,CA,06083
+1800,2018-07-11,100,Pendleton Complex,San Diego County,CA,06073
+504,2018-07-11,100,West,San Diego County,CA,06073
+2883,2018-07-18,100,Georges,Inyo County,CA,06027
+96901,2018-08-18,100,Ferguson,Mariposa County,CA,06043
+2100,2018-07-17,100,Eagle,Modoc County,CA,06049
+38134,2018-10-30,100,Natchez,Del Norte County,CA,06015
+38134,2018-10-30,100,Natchez,Siskiyou County,CA,06093
+229651,2018-08-30,100,Carr,Shasta County,CA,06089
+13139,2018-08-10,100,Cranston,Riverside County,CA,06065
+459123,2018-09-18,100,Mendocino Complex,Mendocino County,CA,06045
+459123,2018-09-18,100,Mendocino Complex,Lake County,CA,06033
+459123,2018-09-18,100,Mendocino Complex,Colusa County,CA,06011
+459123,2018-09-18,100,Mendocino Complex,Glenn County,CA,06021
+18703,2018-08-07,100,Whaleback,Lassen County,CA,06035
+1200,2018-08-03,100,Butte,Sutter County,CA,06101
+36450,2018-10-01,100,Donnell,Tuolumne County,CA,06109
+2950,2018-08-06,100,Tarina,Kern County,CA,06029
+1000,2018-08-06,100,Pendleton,San Diego County,CA,06073
+2225,2018-08-06,100,Turkey,Monterey County,CA,06053
+23136,2018-09-13,100,Holy,Orange County,CA,06059
+23136,2018-09-13,100,Holy,Riverside County,CA,06065
+2995,2018-08-08,100,Five,Kings County,CA,06031
+46150,2018-09-12,100,Hirz,Shasta County,CA,06089
+1900,2018-08-16,100,Hat,Shasta County,CA,06089
+2162,2018-08-12,100,Nelson,Solano County,CA,06095
+39387,2018-08-29,100,Stone,Modoc County,CA,06049
+3674,2018-08-30,100,Mill Creek 1,Humboldt County,CA,06023
+1014,2018-08-29,100,Front,San Luis Obispo County,CA,06079
+1014,2018-08-29,100,Front,Santa Barbara County,CA,06083
+1120,2018-09-16,100,North,Placer County,CA,06061
+6974,2018-09-15,100,Boot,Mono County,CA,06051
+1751,2018-09-17,100,Kerlin,Trinity County,CA,06105
+63311,2018-10-07,100,Delta,Shasta County,CA,06089
+2490,2018-09-15,100,Snell,Napa County,CA,06055
+3380,2018-10-01,100,Charlie,Los Angeles County,CA,06037
+4653,2018-12-07,100,Alder,Tulare County,CA,06107
+1777,2018-12-07,100,Eden,Tulare County,CA,06107
+4700,2018-11-09,100,Branscombe,Solano County,CA,06095
+3889,2018-10-12,100,Sun,Tehama County,CA,06103
+1270,2018-12-07,100,Mountaineer,Tulare County,CA,06107
+153336,2018-11-25,100,Camp,Butte County,CA,06007
+1500,2018-11-27,100,Nurse,Solano County,CA,06095
+4531,2018-11-15,100,Hill,Ventura County,CA,06111
+96949,2018-11-22,100,Woolsey,Los Angeles County,CA,06037
+96949,2018-11-22,100,Woolsey,Ventura County,CA,06111
+2500,2019-05-09,100,Refuge,Kern County,CA,06029
+1127,2019-06-11,100,Boulder,San Luis Obispo County,CA,06079
+2512,2019-06-17,100,Sand,Yolo County,CA,06113
+1300,2019-06-10,100,West Butte,Sutter County,CA,06101
+1764,2019-06-14,100,McMillan,San Luis Obispo County,CA,06079
+2546,2019-06-26,100,Lonoak,Monterey County,CA,06053
+2422,2019-06-27,100,Rock,Stanislaus County,CA,06099
+1975,2019-10-11,100,Cow,Inyo County,CA,06027
+1975,2019-10-11,100,Cow,Tulare County,CA,06107
+4840,2019-10-07,100,Springs,Mono County,CA,06051
+14150,2019-08-15,100,Tucker,Modoc County,CA,06049
+1020,2019-08-11,100,W-1 McDonald,Lassen County,CA,06035
+1300,2019-08-20,100,Gaines,Mariposa County,CA,06043
+600,2019-08-26,100,Mountain,Shasta County,CA,06089
+2438,2019-08-27,100,Long Valley,Lassen County,CA,06035
+3380,2019-09-05,100,R-1 Ranch,Lassen County,CA,06035
+1926,2019-09-14,100,Tenaja,Riverside County,CA,06065
+54608,2019-09-25,100,Walker,Plumas County,CA,06063
+10296,2019-11-21,100,Taboose,Inyo County,CA,06027
+1872,2019-09-19,100,Lime,Siskiyou County,CA,06093
+1339,2019-10-05,100,Middle,Trinity County,CA,06105
+8838,2019-09-13,100,Red Bank,Tehama County,CA,06103
+5332,2019-10-11,100,South,Tehama County,CA,06103
+5737,2019-09-13,100,Lone,Modoc County,CA,06049
+4840,2019-09-23,100,Springs,Mono County,CA,06051
+5563,2019-10-24,100,Briceburg,Mariposa County,CA,06043
+1011,2019-10-14,100,Sandalwood,Riverside County,CA,06065
+3435,2019-11-01,100,Caples,El Dorado County,CA,06017
+8799,2019-10-31,100,Saddleridge,Los Angeles County,CA,06037
+77758,2019-11-06,100,Kincade,Sonoma County,CA,06097
+4615,2019-10-31,100,Tick,Los Angeles County,CA,06037
+745,2019-11-06,100,Getty,Los Angeles County,CA,06037
+1806,2019-11-02,100,Easy,Ventura County,CA,06111
+200,2019-11-14,100,Hillside,San Bernardino County,CA,06071
+9999,2019-11-05,100,Maria,Ventura County,CA,06111
+2534,2019-11-15,100,Ranch,Tehama County,CA,06103
+3126,2019-12-14,100,Cave,Santa Barbara County,CA,06083
+2060,2020-05-07,100,Interstate 5 ,Kings County,CA,06031
+5000,2020-05-28,100,Range ,San Luis Obispo County,CA,06079
+1395,2020-06-01,100,Scorpion ,Santa Barbara County,CA,06083
+1837,2020-06-10,100,Quail ,Solano County,CA,06095
+11000,2020-06-12,100,Wood ,San Diego County,CA,06073
+1100,2020-06-14,100,India ,San Diego County,CA,06073
+1672,2020-06-11,100,Soda ,San Luis Obispo County,CA,06079
+5042,2020-06-17,100,Grant ,Sacramento County,CA,06067
+1455,2020-06-20,100,Walker ,Calaveras County,CA,06009
+1050,2020-06-26,100,Grade ,Tulare County,CA,06107
+2192,2020-06-30,100,Pass ,Merced County,CA,06047
+2900,2020-07-03,100,Bena ,Kern County,CA,06029
+5513,2020-07-13,100,Crews ,Santa Clara County,CA,06085
+1525,2020-07-15,100,Soledad ,Los Angeles County,CA,06037
+29667,2020-07-26,100,Mineral ,Fresno County,CA,06019
+1508,2020-07-18,100,Coyote ,San Benito County,CA,06069
+9564,2020-08-08,100,Hog ,Lassen County,CA,06035
+22634,2020-08-08,100,Gold ,Lassen County,CA,06035
+83261,2020-08-07,100,July Complex 2020 ,Modoc County,CA,06049
+83261,2020-08-07,100,July Complex 2020 ,Siskiyou County,CA,06093
+6922,2020-11-19,100,Blue Jay ,Mariposa County,CA,06043
+6922,2020-11-19,100,Blue Jay ,Tuolumne County,CA,06109
+144698,2020-11-17,100,Red Salmon Complex ,Humboldt County,CA,06023
+144698,2020-11-17,100,Red Salmon Complex ,Siskiyou County,CA,06093
+144698,2020-11-17,100,Red Salmon Complex ,Trinity County,CA,06105
+3022,2020-08-01,100,Branch ,San Luis Obispo County,CA,06079
+33424,2020-11-16,100,Apple ,Riverside County,CA,06065
+1962,2020-08-08,100,Pond ,San Luis Obispo County,CA,06079
+6882,2020-08-10,100,North ,Lassen County,CA,06035
+7760,2020-08-16,100,Stagecoach ,Kern County,CA,06029
+2057,2020-11-19,100,Wolf ,Tuolumne County,CA,06109
+31089,2020-09-28,100,Lake ,Los Angeles County,CA,06037
+4237,2020-10-05,100,Ranch 2 ,Los Angeles County,CA,06037
+2121,2020-08-24,100,Hills ,Fresno County,CA,06019
+47029,2020-09-14,100,Loyalton ,Lassen County,CA,06035
+47029,2020-09-14,100,Loyalton ,Plumas County,CA,06063
+47029,2020-09-14,100,Loyalton ,Sierra County,CA,06091
+3780,2020-08-28,100,Beach ,Mono County,CA,06051
+48088,2020-09-04,100,River ,Monterey County,CA,06053
+43273,2020-09-14,100,Dome ,San Bernardino County,CA,06071
+86509,2020-09-22,100,CZU Lightning Complex ,San Mateo County,CA,06081
+86509,2020-09-22,100,CZU Lightning Complex ,Santa Cruz County,CA,06087
+396624,2020-10-01,100,SCU Lightning Complex ,Santa Clara County,CA,06085
+396624,2020-10-01,100,SCU Lightning Complex ,Alameda County,CA,06001
+396624,2020-10-01,100,SCU Lightning Complex ,Contra Costa County,CA,06013
+396624,2020-10-01,100,SCU Lightning Complex ,San Joaquin County,CA,06077
+396624,2020-10-01,100,SCU Lightning Complex ,Merced County,CA,06047
+396624,2020-10-01,100,SCU Lightning Complex ,Stanislaus County,CA,06099
+1032648,2020-11-12,100,August Complex ,Glenn County,CA,06021
+1032648,2020-11-12,100,August Complex ,Mendocino County,CA,06045
+1032648,2020-11-12,100,August Complex ,Lake County,CA,06033
+1032648,2020-11-12,100,August Complex ,Tehama County,CA,06103
+1032648,2020-11-12,100,August Complex ,Trinity County,CA,06105
+1032648,2020-11-12,100,August Complex ,Shasta County,CA,06089
+8177,2020-11-30,85,Rattlesnake ,Tulare County,CA,06107
+363220,2020-10-02,100,LNU Lightning Complex ,Colusa County,CA,06011
+363220,2020-10-02,100,LNU Lightning Complex ,Lake County,CA,06033
+363220,2020-10-02,100,LNU Lightning Complex ,Napa County,CA,06055
+363220,2020-10-02,100,LNU Lightning Complex ,Sonoma County,CA,06097
+363220,2020-10-02,100,LNU Lightning Complex ,Solano County,CA,06095
+363220,2020-10-02,100,LNU Lightning Complex ,Yolo County,CA,06113
+3000,2020-09-06,100,Holser ,Ventura County,CA,06111
+19609,2020-10-17,100,Butte/Tehama/Glenn Lightning Complex (Butte Zone) ,Butte County,CA,06007
+318935,2020-11-30,98,North Complex ,Plumas County,CA,06063
+318935,2020-11-30,98,North Complex ,Butte County,CA,06007
+705,2020-08-28,100,Jones ,Nevada County,CA,06057
+29570,2020-09-09,100,Sheep ,Plumas County,CA,06063
+29570,2020-09-09,100,Sheep ,Lassen County,CA,06035
+1789,2020-08-24,100,Salt ,Calaveras County,CA,06009
+84817,2020-09-14,100,W-5 Cold Springs ,Lassen County,CA,06035
+84817,2020-09-14,100,W-5 Cold Springs ,Modoc County,CA,06049
+6905,2020-09-04,100,Carmel ,Monterey County,CA,06053
+124924,2020-11-30,98,Dolan/Coleman ,Monterey County,CA,06053
+124924,2020-11-30,98,Dolan/Coleman ,San Luis Obispo County,CA,06079
+4929,2020-10-02,100,Woodward ,Marin County,CA,06041
+174178,2020-11-30,91,SQF Complex ,Tulare County,CA,06107
+2857,2020-08-30,100,Moc ,Tuolumne County,CA,06109
+1316,2020-11-30,95,Moraine ,Fresno County,CA,06019
+1316,2020-11-30,95,Moraine ,Tulare County,CA,06107
+26759,2020-11-08,100,Slink ,Alpine County,CA,06003
+26759,2020-11-08,100,Slink ,Mono County,CA,06051
+379895,2020-11-30,96,Creek ,Fresno County,CA,06019
+379895,2020-11-30,96,Creek ,Madera County,CA,06039
+22744,2020-11-16,100,El Dorado ,San Bernardino County,CA,06071
+22744,2020-11-16,100,El Dorado ,Riverside County,CA,06065
+16390,2020-09-24,100,Valley ,San Diego County,CA,06073
+115997,2020-11-30,99,Bobcat ,Los Angeles County,CA,06037
+1100,2020-09-14,100,Oak ,Mendocino County,CA,06045
+166127,2020-11-16,100,Slater / Devil ,Siskiyou County,CA,06093
+166127,2020-11-16,100,Slater / Devil ,Del Norte County,CA,06015
+1673,2020-11-09,100,Fork ,El Dorado County,CA,06017
+1185,2020-11-09,100,Bullfrog ,Fresno County,CA,06019
+1311,2020-09-14,100,Willow ,Yuba County,CA,06115
+2188,2020-09-29,100,Fox ,Siskiyou County,CA,06093
+6254,2020-10-06,100,Snow ,Riverside County,CA,06065
+67484,2020-10-20,100,Glass ,Napa County,CA,06055
+67484,2020-10-20,100,Glass ,Sonoma County,CA,06097
+56338,2020-10-13,100,Zogg ,Shasta County,CA,06089
+12466,2020-11-07,100,Silverado ,Orange County,CA,06059
+13694,2020-11-07,100,Blue Ridge ,Orange County,CA,06059
+13694,2020-11-07,100,Blue Ridge ,San Bernardino County,CA,06071
+13694,2020-11-07,100,Blue Ridge ,Riverside County,CA,06065
+2800,2020-11-24,100,Laura 2 ,Lassen County,CA,06035
+20385,2020-11-30,70,Mountain View ,Mono County,CA,06051

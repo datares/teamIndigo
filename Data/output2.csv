@@ -1,0 +1,107 @@
+,Name ,County ,Acres ,Start Date ,Contained Date
+0,Refuge,Kern,"2,500",7-May,9-May
+1,Boulder,San Luis Obispo,"1,127",5-Jun,11-Jun
+2,Sand,Yolo,"2,512",8-Jun,17-Jun
+3,West Butte,Sutter,"1,300",8-Jun,10-Jun
+4,McMillan,San Luis Obispo,"1,764",12-Jun,14-Jun
+5,Lonoak,Monterey,"2,546",25-Jun,26-Jun
+6,Rock,Stanislaus,"2,422",25-Jun,27-Jun
+7,Cow,"Inyo, Tulare","1,975",25-Jul,11-Oct
+8,Springs,Mono,"4,840",26-Jul,7-Oct
+9,Tucker,Modoc,"14,150",28-Jul,15-Aug
+10,W-1 McDonald,Lassen,"1,020",8-Aug,11-Aug
+11,Gaines,Mariposa,"1,300",16-Aug,20-Aug
+12,Mountain,Shasta,600,22-Aug,26-Aug
+13,Long Valley,Lassen,"2,438",24-Aug,27-Aug
+14,R-1 Ranch,Lassen,"3,380",28-Aug,5-Sep
+15,Tenaja,Riverside,"1,926",4-Sep,14-Sep
+16,Walker,Plumas,"54,608",4-Sep,25-Sep
+17,Taboose,Inyo,"10,296",4-Sep,21-Nov
+18,Lime,Siskiyou,"1,872",4-Sep,19-Sep
+19,Middle,Trinity,"1,339",5-Sep,5-Oct
+20,Red Bank,Tehama,"8,838",5-Sep,13-Sep
+21,South,Tehama,"5,332",5-Sep,11-Oct
+22,Lone,Modoc,"5,737",5-Sep,13-Sep
+23,Springs,Mono,"4,840",6-Sep,23-Sep
+24,Briceburg,Mariposa,"5,563",6-Oct,24-Oct
+25,Sandalwood,Riverside,"1,011",10-Oct,14-Oct
+26,Caples,El Dorado,"3,435",10-Oct,1-Nov
+27,Saddleridge,Los Angeles,"8,799",10-Oct,31-Oct
+28,Kincade,Sonoma,"77,758",23-Oct,6-Nov
+29,Tick,Los Angeles,"4,615",24-Oct,31-Oct
+30,Getty,Los Angeles,745,28-Oct,6-Nov
+31,Easy,Ventura,"1,806",30-Oct,2-Nov
+32,Hillside,San Bernardino,200,31-Oct,14-Nov
+33,Maria,Ventura,"9,999",31-Oct,5-Nov
+34,Ranch,Tehama,"2,534",3-Nov,15-Nov
+35,Cave,Santa Barbara,"3,126",25-Nov,14-Dec
+0,Interstate 5 ,Kings,"2,060",3-May,7-May
+1,Range ,San Luis Obispo,"5,000",27-May,28-May
+2,Scorpion ,Santa Barbara,"1,395",31-May,1-Jun
+3,Quail ,Solano,"1,837",6-Jun,10-Jun
+4,Wood ,San Diego,"11,000",8-Jun,12-Jun
+5,India ,San Diego,"1,100",8-Jun,14-Jun
+6,Soda ,San Luis Obispo,"1,672",10-Jun,11-Jun
+7,Grant ,Sacramento,"5,042",12-Jun,17-Jun
+8,Walker ,Calaveras,"1,455",16-Jun,20-Jun
+9,Grade ,Tulare,"1,050",22-Jun,26-Jun
+10,Pass ,Merced,"2,192",28-Jun,30-Jun
+11,Bena ,Kern,"2,900",1-Jul,3-Jul
+12,Crews ,Santa Clara,"5,513",5-Jul,13-Jul
+13,Soledad ,Los Angeles,"1,525",5-Jul,15-Jul
+14,Mineral ,Fresno,"29,667",13-Jul,26-Jul
+15,Coyote ,San Benito,"1,508",15-Jul,18-Jul
+16,Hog ,Lassen,"9,564",18-Jul,8-Aug
+17,Gold ,Lassen,"22,634",20-Jul,8-Aug
+18,July Complex 2020 ,"Modoc, Siskiyou","83,261",22-Jul,7-Aug
+19,Blue Jay ,"Mariposa, Tuolumne","6,922",24-Jul,19-Nov
+20,Red Salmon Complex ,"Humboldt, Siskiyou, Trinity","144,698",26-Jul,17-Nov
+21,Branch ,San Luis Obispo,"3,022",28-Jul,1-Aug
+22,Apple ,Riverside,"33,424",31-Jul,16-Nov
+23,Pond ,San Luis Obispo,"1,962",1-Aug,8-Aug
+24,North ,Lassen,"6,882",2-Aug,10-Aug
+25,Stagecoach ,Kern,"7,760",3-Aug,16-Aug
+26,Wolf ,Tuolumne,"2,057",11-Aug,19-Nov
+27,Lake ,Los Angeles,"31,089",12-Aug,28-Sep
+28,Ranch 2 ,Los Angeles,"4,237",13-Aug,5-Oct
+29,Hills ,Fresno,"2,121",15-Aug,24-Aug
+30,Loyalton ,"Lassen, Plumas, Sierra","47,029",15-Aug,14-Sep
+31,Beach ,Mono,"3,780",16-Aug,28-Aug
+32,River ,Monterey,"48,088",16-Aug,4-Sep
+33,Dome ,San Bernardino,"43,273",16-Aug,14-Sep
+34,CZU Lightning Complex ,"San Mateo, Santa Cruz","86,509",16-Aug,22-Sep
+35,SCU Lightning Complex ,"Santa Clara, Alameda, Contra Costa, San Joaquin, Merced, Stanislaus","396,624",16-Aug,1-Oct
+36,August Complex ,"Glenn, Mendocino, Lake, Tehama, Trinity, Shasta","1,032,648",16-Aug,12-Nov
+37,Rattlesnake ,Tulare,"8,177",16-Aug,"85% contained, as of November 30"
+38,LNU Lightning Complex ,"Colusa, Lake, Napa, Sonoma, Solano, Yolo","363,220",17-Aug,2-Oct
+39,Holser ,Ventura,"3,000",17-Aug,6-Sep
+40,Butte/Tehama/Glenn Lightning Complex (Butte Zone) ,Butte,"19,609",17-Aug,17-Oct
+41,North Complex ,"Plumas, Butte","318,935",17-Aug,"98% contained, as of November 30"
+42,Jones ,Nevada,705,17-Aug,28-Aug
+43,Sheep ,"Plumas, Lassen","29,570",17-Aug,9-Sep
+44,Salt ,Calaveras,"1,789",18-Aug,24-Aug
+45,W-5 Cold Springs ,"Lassen, Modoc","84,817",18-Aug,14-Sep
+46,Carmel ,Monterey,"6,905",18-Aug,4-Sep
+47,Dolan/Coleman ,"Monterey, San Luis Obispo","124,924",18-Aug,"98% contained, as of November 30"
+48,Woodward ,Marin,"4,929",19-Aug,2-Oct
+49,SQF Complex ,Tulare,"174,178",19-Aug,"91% contained, as of November 30"
+50,Moc ,Tuolumne,"2,857",20-Aug,30-Aug
+51,Moraine ,"Fresno, Tulare","1,316",21-Aug,"95% contained, as of November 30"
+52,Slink ,"Alpine, Mono","26,759",29-Aug,8-Nov
+53,Creek ,"Fresno, Madera","379,895",4-Sep,"96% contained, as of November 30"
+54,El Dorado ,"San Bernardino, Riverside","22,744",5-Sep,16-Nov
+55,Valley ,San Diego,"16,390",5-Sep,24-Sep
+56,Bobcat ,Los Angeles,"115,997",6-Sep,"99% contained, as of November 30"
+57,Oak ,Mendocino,"1,100",7-Sep,14-Sep
+58,Slater / Devil ,"Siskiyou, Del Norte","166,127",7-Sep,16-Nov
+59,Fork ,El Dorado,"1,673",8-Sep,9-Nov
+60,Bullfrog ,Fresno,"1,185",9-Sep,9-Nov
+61,Willow ,Yuba,"1,311",9-Sep,14-Sep
+62,Fox ,Siskiyou,"2,188",14-Sep,29-Sep
+63,Snow ,Riverside,"6,254",17-Sep,6-Oct
+64,Glass ,"Napa, Sonoma","67,484",27-Sep,20-Oct
+65,Zogg ,Shasta,"56,338",27-Sep,13-Oct
+66,Silverado ,Orange,"12,466",26-Oct,7-Nov
+67,Blue Ridge ,"Orange, San Bernardino, Riverside","13,694",26-Oct,7-Nov
+68,Laura 2 ,Lassen,"2,800",17-Nov,24-Nov
+69,Mountain View ,Mono,"20,385",17-Nov,"70% contained, as of November 30"
