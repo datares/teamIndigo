@@ -1,4 +1,4 @@
-# teamIndigo
+# TeamIndigo
 
 Github repository for Data Blog team that worked on visualizing/analyzing Wildfire spread.
 
